@@ -1,0 +1,16 @@
+D:\SV-VănLang\Junior\HocTap\Project\CSCP\FanFunn\FanFunn\bin\Release\FanFunn.exe.config
+D:\SV-VănLang\Junior\HocTap\Project\CSCP\FanFunn\FanFunn\bin\Release\FanFunn.exe
+D:\SV-VănLang\Junior\HocTap\Project\CSCP\FanFunn\FanFunn\bin\Release\FanFunn.pdb
+D:\SV-VănLang\Junior\HocTap\Project\CSCP\FanFunn\FanFunn\obj\Release\LoseForm.baml
+D:\SV-VănLang\Junior\HocTap\Project\CSCP\FanFunn\FanFunn\obj\Release\LoseForm.g.cs
+D:\SV-VănLang\Junior\HocTap\Project\CSCP\FanFunn\FanFunn\obj\Release\MainWindow.g.cs
+D:\SV-VănLang\Junior\HocTap\Project\CSCP\FanFunn\FanFunn\obj\Release\App.g.cs
+D:\SV-VănLang\Junior\HocTap\Project\CSCP\FanFunn\FanFunn\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\SV-VănLang\Junior\HocTap\Project\CSCP\FanFunn\FanFunn\obj\Release\FanFunn_MarkupCompile.cache
+D:\SV-VănLang\Junior\HocTap\Project\CSCP\FanFunn\FanFunn\obj\Release\FanFunn_MarkupCompile.lref
+D:\SV-VănLang\Junior\HocTap\Project\CSCP\FanFunn\FanFunn\obj\Release\MainWindow.baml
+D:\SV-VănLang\Junior\HocTap\Project\CSCP\FanFunn\FanFunn\obj\Release\FanFunn.g.resources
+D:\SV-VănLang\Junior\HocTap\Project\CSCP\FanFunn\FanFunn\obj\Release\FanFunn.Properties.Resources.resources
+D:\SV-VănLang\Junior\HocTap\Project\CSCP\FanFunn\FanFunn\obj\Release\FanFunn.csproj.GenerateResource.Cache
+D:\SV-VănLang\Junior\HocTap\Project\CSCP\FanFunn\FanFunn\obj\Release\FanFunn.exe
+D:\SV-VănLang\Junior\HocTap\Project\CSCP\FanFunn\FanFunn\obj\Release\FanFunn.pdb
